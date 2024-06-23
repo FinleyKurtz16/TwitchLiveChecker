@@ -16,7 +16,7 @@ HOW TO RUN TWITCH-LIVE-CHECKER:
 WARNING:
 1. The direct run without python doesn't get updates as often as the python-script does. It only updates every big update (e.g.: V1.0, V2.0, V3.0, …)
    It doesn't get updates like the V1.1 or comming soon V1.2
-2. Don't use the code as a bot. The code is more like a Podcast-Version of your favorite streamer. I do admit V2.0b looks highly suspicous like about, beacuse
+2. Don't use the code as a bot. The code is more like a Podcast-Version of your favorite streamer. I do admit V2.0b looks highly suspicous like a bot, because
    of the collecting channelpoints feature, but 1. you can turn of the feature and 2. you should turn this feature of if streamer doesn't want to, because you
    they give you rewards for watching their stream and not let a bot watch your stream and interact with it. The V2.1b Version also will get an update for
    made streamer, where I text streamer or they text me if I/they want to disable automatic-channelpoint collector. (I don't want to start a debate)
