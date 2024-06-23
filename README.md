@@ -36,3 +36,6 @@ V1.1  -> 23.06.2024 - 23.06.2024 (released)
 V1.2  -> 24.06.2024 - 09.09.2024 (making ideas)
 V2.0a -> 24.06.2024 - 09.09.2024 (partly finished)
 V2.0b -> 24.06.2024 - 31.12.2024 (not started yet)
+
+Final Version will be TwitchPodcast... so stay tuned
+
