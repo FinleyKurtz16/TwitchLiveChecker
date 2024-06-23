@@ -19,7 +19,7 @@ WARNING:
 2. Don't use the code as a bot. The code is more like a Podcast-Version of your favorite streamer. I do admit V2.0b looks highly suspicous like a bot, because
    of the collecting channelpoints feature, but 1. you can turn of the feature and 2. you should turn this feature of if streamer doesn't want to, because you
    they give you rewards for watching their stream and not let a bot watch your stream and interact with it. The V2.1b Version also will get an update for
-   made streamer, where I text streamer or they text me if I/they want to disable automatic-channelpoint collector. (I don't want to start a debate)
+   made streamer, where I text streamer or they text me if I/they want to disable automatic-channelpoint collector. (I don't want to start a debate. I just want to make Twitch-Podcast)
 
 Current Versions:
 V1.0  -> Early Access Code with bugs that I'm aware of (e.g.: When a streamer goes offline it doesn't close this tap, what could lead to pain for your ears)
