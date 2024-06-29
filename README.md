@@ -33,7 +33,7 @@ V2.0b -> Early Access Code to collect channelpoints
 Release Dates:
 V1.0  -> 23.06.2024 - 23.06.2024 (released)
 V1.1  -> 23.06.2024 - 23.06.2024 (released)
-V1.2  -> 24.06.2024 - 09.09.2024 (making ideas)
+V1.2  -> 24.06.2024 - 09.09.2024 (released)
 V2.0a -> 24.06.2024 - 09.09.2024 (partly finished)
 V2.0b -> 24.06.2024 - 31.12.2024 (not started yet)
 
